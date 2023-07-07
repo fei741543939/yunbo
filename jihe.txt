@@ -1,6 +1,5 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;88c55af008dbd9344f3cf95e6f426a2a",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/fei741543939/yunbo/main/jihe.txt,
 
 "sites":[
 {"key":"js豆豆","name":"轩辕主力源","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
