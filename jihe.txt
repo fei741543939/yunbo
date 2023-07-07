@@ -1,5 +1,6 @@
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/fei741543939/yunbo/main/jihe.txt,
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
 {"key":"js豆豆","name":"轩辕主力源","type":3,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
